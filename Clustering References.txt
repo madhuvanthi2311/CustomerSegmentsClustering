@@ -1,0 +1,3 @@
+1)https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.htmls
+
+2) http://www.ritchieng.com/machine-learning-project-customer-segments/
